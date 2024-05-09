@@ -44,4 +44,4 @@ HTML 문서 내부가 아닌 외부에서 CSS 파일을 작성했다면, HTML �
     vertical-align: middle; - 이런것도 있다.
 
 screenshot
-![screenshot](/바탕화면/screenshot.png)
+![screenshot](https://github.com/tablemin03/2024-1-Web-Study/assets/87592982/18572264-84b8-4fd3-bea7-e2b83e17e9c4)
