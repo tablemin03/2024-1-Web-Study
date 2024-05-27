@@ -86,13 +86,14 @@ QUIC는 모바일에서의 많은 인터넷 사용량을 위해 설계되었다.
 
 # HTTP 통신 메소드
 ## GET
-![alt text](image.png)
+![alt text](GET.png)
 네이버 뉴진스 검색
     주로 데이터를 읽거나 검색할 때 사용되는 메소드이다.
 ## POST
-![alt text](image.png)
+![alt text](POST.png)
 깃허브 stats
     주로 새로운 리소스를 생성할 때 사용된다.
+
 **온갖곳을 돌아다녔지만 GET과 POST이외에는 찾지 못함....**
 ## PUT
     리소스를 생성/ 업데이트하기 위해 서버로 데이터를 보내는데 사용된다.
